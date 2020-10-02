@@ -1,5 +1,6 @@
 <h1>Hi There, I am <a  href="https://Average-stu.github.io/">Aman </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## I'm a 3rd year Cyber-security student!!
 
 - 🔭 I’m currently working on Bot that will help me in making my cyber-security work easy 🤣
@@ -7,6 +8,7 @@
 - 👯 I’m looking to collaborate with other cyber-security enthusiast
 - 🥅 2020 Goals: Looking Forward to start contributing  to Open Source projects
 - ⚡ Fun fact: I love to listen to Rap music 
+
 
 
 ### Languages:
