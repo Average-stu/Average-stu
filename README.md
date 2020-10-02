@@ -1,6 +1,7 @@
 <h1>Hi There, I am <a  href="https://Average-stu.github.io/">Aman </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## I'm a 3rd year Cyber-security student!!
 
 - 🔭 I’m currently working on Bot that will help me in making my cyber-security work easy 🤣
@@ -24,6 +25,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=average-stu&show_icons=true" alt="average-stu" /></p>
 <br />
