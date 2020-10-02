@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Bot that will help me in making my cyber-security work easy 🤣
 - 🌱 I’m currently learning everything xd
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other cyber-security enthusiast
 - 🥅 2020 Goals: Want to start contribute to Open Source projects
 - ⚡ Fun fact: I love to listen to Rap music 
 
@@ -28,4 +28,4 @@
 </details>
 
 [instagram]: https://instagram.com/ksingh_aman
-[linkedin]: https://linkedin.com/in/aman-kumar-4411190
+[linkedin]: https://www.linkedin.com/in/aman-kumar-441190178/
