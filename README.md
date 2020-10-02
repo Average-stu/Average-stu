@@ -11,8 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aman Spotify Playing" width="350" />](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
-
+[![Spotify](https://novatorem-liart.vercel.app/api/spotify)](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
 <br />
 
 ### Languages:
