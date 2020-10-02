@@ -11,7 +11,8 @@
 
 ### Spotify Playing 🎧
 
-[Spotify](https://novatorem-af03d1hbz.vercel.app)
+[<img src="https://novatorem-liart.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
+
 <br />
 
 ### Languages:
