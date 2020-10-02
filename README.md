@@ -45,5 +45,11 @@
 
 <br />
 
+### Read my Published Research paper 
+
+[<img align="left" alt="Average-stu | Paper" width="26px" src="https://th.bing.com/th/id/OIP.xO6-pVwqb3_zNTP0BaPfpAAAAA?w=131&h=155&c=7&o=5&dpr=1.25&pid=1.7" />][researchpaper]
+
+
+[researchpaper]: https://doi.org/10.1016/S1361-3723(20)30098-1
 [instagram]: https://instagram.com/ksingh_aman
 [linkedin]: https://www.linkedin.com/in/aman-kumar-441190178/
