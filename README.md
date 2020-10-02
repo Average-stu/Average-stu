@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-af03d1hbz.vercel.app)](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
+[![Spotify](https://novatorem.average-stu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <br />
 
 ### Languages:
