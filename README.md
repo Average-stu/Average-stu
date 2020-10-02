@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https:novatorem.average-stu.vercel.app" alt="Average-stu Spotify Playing" width="350" />](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
+[<img src="https:novatorem-git-master.average-stu.vercel.app" alt="Average-stu Spotify Playing" width="350" />](https://open.spotify.com/user/31vy5k7nyw7orozauj3jkijmf67m)
 
 <br />
 
