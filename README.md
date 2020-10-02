@@ -1,5 +1,4 @@
-### Hi there, I'm Aman - aka [Average-stu] <h1> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
+<h1>Hi There, I am <a  href="https://Average-stu.github.io/">Aman </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## I'm a 3rd year Cyber-security student!!
 
